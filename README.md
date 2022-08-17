@@ -1,1 +1,2 @@
-# AI-Webcam-Image-Classifier
+# AI Webcam Image Classifier
+![](image_classifier.png)
